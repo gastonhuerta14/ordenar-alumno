@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537753783 source:c:\users\gasto\desktop\gast”n\ordenaralumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ordenarAlumnos.h"
+
+1537753755 c:\users\gasto\desktop\gast”n\ordenaralumnos\ordenaralumnos.h
+
+1537754802 source:c:\users\gasto\desktop\gast”n\ordenaralumnos\ordenaralumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ordenarAlumnos.h"
+
